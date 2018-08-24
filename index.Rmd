@@ -1,0 +1,14 @@
+---
+---
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<img src="images/emily_2.jpg" style="width:25%; border:10px solid; margin-right: 20px" align="left">
+
+I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to educational, HR and social issues. 
+
+I graduated from the [Columbia University, New York City](https://sipa.columbia.edu//) with a Master in International Affairs in 2007. Prior to that I had completed my Master in Rural Management from Xavier Institute of Social Service in 2000.   
+
+I am a well-known R enthusiast and a citizen data scientist:) 
+
+My full CV is available [here](files/Resume_Onkar Singh.pdf).
