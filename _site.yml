@@ -19,7 +19,7 @@ navbar:
     - icon: fa-twitter fa-lg
       href: https://twitter.com/onkartweets
     - icon: fa-linkedin fa-lg
-      href: https://www.linkedin.com/in/emily-zabor-59b902b7/
+      href: https://www.linkedin.com/in/onkarsinghcsranddevelopment/
 output:
   html_document:
     theme: paper
